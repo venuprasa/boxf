@@ -37,7 +37,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Boxfuse Releases Nexus Repository</name>
-	      <urlhttp://54.235.30.244:8081/repository/boxrelease/></url>
+	      <url>http://54.235.30.244:8081/repository/boxrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
